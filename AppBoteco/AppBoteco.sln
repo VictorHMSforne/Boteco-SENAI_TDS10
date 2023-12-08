@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBoteco", "AppBoteco\AppBoteco.csproj", "{C822DEF7-7302-43DE-A302-B99CFBC33BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C822DEF7-7302-43DE-A302-B99CFBC33BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C822DEF7-7302-43DE-A302-B99CFBC33BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C822DEF7-7302-43DE-A302-B99CFBC33BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C822DEF7-7302-43DE-A302-B99CFBC33BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCD1D28-2647-4AB9-9273-B5CF511ADF3A}
+	EndGlobalSection
+EndGlobal
